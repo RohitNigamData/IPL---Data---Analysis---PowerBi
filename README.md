@@ -16,12 +16,12 @@ IPL Data Analytics Dashboard (2008 - 2026)
 ​DAX (Data Analysis Expressions): Complex measures jaise Strike Rate, Toss Win %, aur Dynamic Titles ke liye.
 ​MS Excel: Initial data storage aur manual cleaning ke liye.
 
-​📈 Key Insights from Data
+​📈 Key Insights from Data  
 ​Toss Correlation: Kuch seasons mein toss jeetne ka impact 57% se upar raha, jo matches ki strategy ko define karta hai.
 ​Consistency: Top teams (CSK, MI) ki consistency points table mein saaf nazar aati hai across multiple seasons.
 ​Evolution of Scoring: Dashboard se saaf dikhta hai ki kaise 'Total Sixes' ka count early seasons ke muqable badhta gaya hai.
 
-​🚀 How to View
+​🚀 How to View  
 ​Is repository se .pbix file download karein.
 ​Power BI Desktop mein file ko open karein.
 ​Top-right corner mein diye gaye "Season" slicer ka use karke dashboard explore karein.
